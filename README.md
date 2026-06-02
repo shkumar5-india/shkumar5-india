@@ -34,8 +34,6 @@ An AI/ML enthusiast and software developer dedicated to turning complex, real-wo
 
 ---
 
-## 📊 GitHub Analytics
-
 ### 📈 Activity & Languages
 | | |
 | --- | --- |
