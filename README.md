@@ -37,7 +37,6 @@ An AI/ML enthusiast and software developer dedicated to turning complex, real-wo
 ## 📊 GitHub Analytics
 
 ### 📈 Activity & Languages
-p
 | | |
 | --- | --- |
 | ![](https://github-readme-stats.shion.dev/api?username=shkumar5-india&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shkumar5-india&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
@@ -45,11 +44,6 @@ p
 ### 🔥 Contribution Streak
 ![](https://streak-stats.demolab.com/?user=shkumar5-india&theme=codeSTACKr&hide_border=false)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shkumar5-india&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=shkumar5-india&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -63,8 +57,3 @@ Feel free to reach out via any of the channels below! I'm always open to discuss
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirasapalli1238@gmail.com) 
 
 ---
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=shkumar5-india&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
