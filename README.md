@@ -279,10 +279,6 @@ geometric_series(a, r, n)   # Geometric series sum
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sirasapalli?theme=dark&font=Karma)
 
-### CodeChef  
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-kumar3811-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kumar3811)
-**Top 100 among 1000** participants in VIIT competitive coding contest
-
 </div>
 
 ---
