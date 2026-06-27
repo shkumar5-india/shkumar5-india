@@ -304,6 +304,7 @@ geometric_series(a, r, n)   # Geometric series sum
 - ☁️ Kubernetes & MLOps pipelines  
 - 📱 TensorFlow Lite for on-device inference
 - 🌍 Distributed systems & microservices architecture
+- QA(Quality Assurance
 
 ---
 
@@ -312,10 +313,10 @@ geometric_series(a, r, n)   # Geometric series sum
 <div align="center">
 
 I'm always excited to discuss:
-- 💼 Full-stack AI/ML projects
-- 🤝 Open-source contributions
-- 💡 Real-world problem solving
-- 📚 System design & architecture
+  💼 Full-stack AI/ML projects
+  🤝 Open-source contributions
+  💡 Real-world problem solving
+  📚 System design & architecture
 
 **Reach me here:**
 
@@ -336,6 +337,6 @@ I'm always excited to discuss:
 
 Made with ❤️ by **Hemanth Kumar** | Last Updated: 2026
 
-![Banner](https://img.shields.io/badge/Let's_Build_Something_Amazing-0000000?style=for-the-badge)
+![Banner](https://img.shields.io/badge/Let's_Build_Something_Amazing-06402B?style=for-the-badge)
 
 </div>
