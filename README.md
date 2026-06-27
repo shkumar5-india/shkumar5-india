@@ -12,16 +12,16 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/hemanth-kumar-sirasapalli)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sirasapalli/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFCE1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sirasapalli/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kumar3811)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirasapalli1238@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-DE0A26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirasapalli1238@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shkumar5-india)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://github.com/shkumar5-india)
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shkumar5-india&color=00D4FF&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/shkumar5-india?style=flat-square&color=00D4FF&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=shkumar5-india&color=06402B&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/shkumar5-india?style=flat-square&color=06402B&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/shkumar5-india?style=flat-square&color=FFD700)
 
 </div>
@@ -332,7 +332,7 @@ I'm always excited to discuss:
 
 ### *"Code is art. Ship it. Learn from it. Repeat."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF2B00&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+matter%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+matter%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Quote"/>
 
 Made with ❤️ by **Hemanth Kumar** | Last Updated: 2026
 
