@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF2B00&center=true&vCenter=true&width=800&height=100&lines=Hemanth+Kumar+Sirasapalli;%F0%9F%9A%80+Passionate%2FFull-Stack+AI%2FML+Engineer;Building+Production-Grade+AI+Systems;React+%7C+FastAPI+%7C+PyTorch+%7C+LLMs" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF2B00&center=true&vCenter=true&width=800&height=100&lines=Hemanth+Kumar+Sirasapalli;%F0%9F%9A%80+Passionate+Full-Stack+AI%2FML+Engineer;Building+Production-Grade+AI+Systems;React+%7C+FastAPI+%7C+PyTorch+%7C+LLMs" alt="Typing Animation"/>
 
 <br/>
 
@@ -336,7 +336,7 @@ I'm always excited to discuss:
 
 ### *"Code is art. Ship it. Learn from it. Repeat."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+matter%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF2B00&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+matter%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Quote"/>
 
 Made with ❤️ by **Hemanth Kumar** | Last Updated: 2026
 
