@@ -299,17 +299,6 @@ geometric_series(a, r, n)   # Geometric series sum
 | 📦 Open Source | Published n_sum package on PyPI |
 | 🔬 Certifications | C++ (EdX), Python Essentials (Cisco), Salesforce Agentforce |
 
----
-
-## 💡 **Why Hire Me?**
-
-✅ **Full-Stack Mastery** — Frontend → Backend → ML → DevOps: Can solo-architect systems  
-✅ **Production Experience** — Built real-time systems, not just notebooks  
-✅ **Rare Combination** — Deep Learning + Modern Web Dev is uncommon  
-✅ **Fast Learner** — Each project teaches me new tech (Quantum, AI APIs, Cloud)  
-✅ **Competitive Coder** — Strong DSA skills, top competitive programmer  
-✅ **Published Work** — Python package on PyPI shows professionalism  
-✅ **Proven Results** — 5 major projects, 3 internships, high CGPA  
 
 ---
 
