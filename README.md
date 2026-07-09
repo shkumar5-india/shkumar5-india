@@ -258,20 +258,6 @@ geometric_series(a, r, n)   # Geometric series sum
 
 ---
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shkumar5-india&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shkumar5-india&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00D4FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shkumar5-india&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF)
-
-</div>
-
----
-
 ## 🏅 **Competitive Programming**
 
 <div align="center">
